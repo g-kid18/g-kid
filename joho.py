@@ -94,3 +94,5 @@ for s in matched:
 # 追加：曲データをJSONでダウンロードするボタン
 if st.button("曲データをJSONでダウンロード"):
     st.download_button("ダウンロード: songs.json", data=json.dumps(SONGS, ensure_ascii=False, indent=2), file_name="songs.json", mime="application/json")
+
+print("はげたこちまき")
