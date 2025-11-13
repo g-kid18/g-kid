@@ -17,7 +17,7 @@ SONGS: List[Dict] = [
     {"id": 2, "title": "Summer Echo", "album": "Sunset Tape", "year": 2019,
      "lyrics": "風が運ぶメロディ", "tags": ["indie", "2019"],
      "url": "https://www.youtube.com/results?search_query=g-kid+summer+echo"},
-    {"id": 3, : "Hikari", "album": "Neon Road", "year": 2021,
+    {"id": 3,  "album": "Neon Road", "year": 2021,
      "lyrics": "光が刺す方へ", "tags": ["electronic", "2021"],
      "url": "https://www.youtube.com/results?search_query=g-kid+hikari"},
     # 必要ならここに追加
